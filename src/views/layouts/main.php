@@ -6,6 +6,7 @@
 use yii\helpers\Html;
 
 \rachan\adminlte3\assets\AdminLteAsset::register($this);
+\rachan\adminlte3\assets\PluginAsset::register($this);
 $this->registerCssFile('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback');
 
 
