@@ -11,7 +11,9 @@ class PluginAsset extends AssetBundle
     public $css = [
         'css' => [
             'icheck-bootstrap/icheck-bootstrap.css',
-            'overlayScrollbars/css/OverlayScrollbars.min.css'
+            'overlayScrollbars/css/OverlayScrollbars.min.css',
+            'flag-icon-css/css/flag-icons.min.css',
+            'fontawesome-free/css/all.min.css'
         ],
         'js' => [
             'overlayScrollbars/js/jquery.overlayScrollbars.min.js'
