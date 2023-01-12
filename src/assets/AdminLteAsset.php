@@ -1,6 +1,6 @@
 <?php
 
-namespace rachanfeem\adminlte3\assets;
+namespace rachan\adminlte3\assets;
 
 use yii\web\AssetBundle;
 
